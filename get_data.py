@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  2 17:49:22 2021
-
-@author: Tobia
-"""
-
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import time
